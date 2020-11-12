@@ -1,6 +1,6 @@
 package Yashar;
 
-public class TC800 {
+public class Task002 {
 
     public static void main(String[] args) {
 
