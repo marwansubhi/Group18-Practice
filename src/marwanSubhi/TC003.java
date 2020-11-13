@@ -9,6 +9,6 @@ public class TC003 {
                 System.out.print(" "+i*j);
             }
             System.out.println();
-        }
+        }// good to go
     }
 }
